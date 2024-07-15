@@ -12,3 +12,4 @@
 /Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/2DArray.pdb
 /Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/2DArray.genruntimeconfig.cache
 /Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/ref/2DArray.dll
+/Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/2DArray.sourcelink.json
