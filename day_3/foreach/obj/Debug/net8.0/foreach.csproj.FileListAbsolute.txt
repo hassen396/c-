@@ -1,0 +1,14 @@
+/Users/smile/C#/day_3/foreach/bin/Debug/net8.0/foreach
+/Users/smile/C#/day_3/foreach/bin/Debug/net8.0/foreach.deps.json
+/Users/smile/C#/day_3/foreach/bin/Debug/net8.0/foreach.runtimeconfig.json
+/Users/smile/C#/day_3/foreach/bin/Debug/net8.0/foreach.dll
+/Users/smile/C#/day_3/foreach/bin/Debug/net8.0/foreach.pdb
+/Users/smile/C#/day_3/foreach/obj/Debug/net8.0/foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/day_3/foreach/obj/Debug/net8.0/foreach.AssemblyInfoInputs.cache
+/Users/smile/C#/day_3/foreach/obj/Debug/net8.0/foreach.AssemblyInfo.cs
+/Users/smile/C#/day_3/foreach/obj/Debug/net8.0/foreach.csproj.CoreCompileInputs.cache
+/Users/smile/C#/day_3/foreach/obj/Debug/net8.0/foreach.dll
+/Users/smile/C#/day_3/foreach/obj/Debug/net8.0/refint/foreach.dll
+/Users/smile/C#/day_3/foreach/obj/Debug/net8.0/foreach.pdb
+/Users/smile/C#/day_3/foreach/obj/Debug/net8.0/foreach.genruntimeconfig.cache
+/Users/smile/C#/day_3/foreach/obj/Debug/net8.0/ref/foreach.dll

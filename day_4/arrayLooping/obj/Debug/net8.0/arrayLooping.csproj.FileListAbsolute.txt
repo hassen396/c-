@@ -1,0 +1,14 @@
+/Users/smile/C#/day_4/arrayLooping/bin/Debug/net8.0/arrayLooping
+/Users/smile/C#/day_4/arrayLooping/bin/Debug/net8.0/arrayLooping.deps.json
+/Users/smile/C#/day_4/arrayLooping/bin/Debug/net8.0/arrayLooping.runtimeconfig.json
+/Users/smile/C#/day_4/arrayLooping/bin/Debug/net8.0/arrayLooping.dll
+/Users/smile/C#/day_4/arrayLooping/bin/Debug/net8.0/arrayLooping.pdb
+/Users/smile/C#/day_4/arrayLooping/obj/Debug/net8.0/arrayLooping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/day_4/arrayLooping/obj/Debug/net8.0/arrayLooping.AssemblyInfoInputs.cache
+/Users/smile/C#/day_4/arrayLooping/obj/Debug/net8.0/arrayLooping.AssemblyInfo.cs
+/Users/smile/C#/day_4/arrayLooping/obj/Debug/net8.0/arrayLooping.csproj.CoreCompileInputs.cache
+/Users/smile/C#/day_4/arrayLooping/obj/Debug/net8.0/arrayLooping.dll
+/Users/smile/C#/day_4/arrayLooping/obj/Debug/net8.0/refint/arrayLooping.dll
+/Users/smile/C#/day_4/arrayLooping/obj/Debug/net8.0/arrayLooping.pdb
+/Users/smile/C#/day_4/arrayLooping/obj/Debug/net8.0/arrayLooping.genruntimeconfig.cache
+/Users/smile/C#/day_4/arrayLooping/obj/Debug/net8.0/ref/arrayLooping.dll

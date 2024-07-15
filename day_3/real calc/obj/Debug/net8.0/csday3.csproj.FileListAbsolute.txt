@@ -1,0 +1,28 @@
+/Users/smile/C#/day_3/csday3/bin/Debug/net8.0/csday3
+/Users/smile/C#/day_3/csday3/bin/Debug/net8.0/csday3.deps.json
+/Users/smile/C#/day_3/csday3/bin/Debug/net8.0/csday3.runtimeconfig.json
+/Users/smile/C#/day_3/csday3/bin/Debug/net8.0/csday3.dll
+/Users/smile/C#/day_3/csday3/bin/Debug/net8.0/csday3.pdb
+/Users/smile/C#/day_3/csday3/obj/Debug/net8.0/csday3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/day_3/csday3/obj/Debug/net8.0/csday3.AssemblyInfoInputs.cache
+/Users/smile/C#/day_3/csday3/obj/Debug/net8.0/csday3.AssemblyInfo.cs
+/Users/smile/C#/day_3/csday3/obj/Debug/net8.0/csday3.csproj.CoreCompileInputs.cache
+/Users/smile/C#/day_3/csday3/obj/Debug/net8.0/csday3.dll
+/Users/smile/C#/day_3/csday3/obj/Debug/net8.0/refint/csday3.dll
+/Users/smile/C#/day_3/csday3/obj/Debug/net8.0/csday3.pdb
+/Users/smile/C#/day_3/csday3/obj/Debug/net8.0/csday3.genruntimeconfig.cache
+/Users/smile/C#/day_3/csday3/obj/Debug/net8.0/ref/csday3.dll
+/Users/smile/C#/day_3/real calc/obj/Debug/net8.0/csday3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/day_3/real calc/obj/Debug/net8.0/csday3.AssemblyInfoInputs.cache
+/Users/smile/C#/day_3/real calc/obj/Debug/net8.0/csday3.AssemblyInfo.cs
+/Users/smile/C#/day_3/real calc/obj/Debug/net8.0/csday3.csproj.CoreCompileInputs.cache
+/Users/smile/C#/day_3/real calc/obj/Debug/net8.0/csday3.dll
+/Users/smile/C#/day_3/real calc/obj/Debug/net8.0/refint/csday3.dll
+/Users/smile/C#/day_3/real calc/obj/Debug/net8.0/csday3.pdb
+/Users/smile/C#/day_3/real calc/bin/Debug/net8.0/csday3
+/Users/smile/C#/day_3/real calc/bin/Debug/net8.0/csday3.deps.json
+/Users/smile/C#/day_3/real calc/bin/Debug/net8.0/csday3.runtimeconfig.json
+/Users/smile/C#/day_3/real calc/bin/Debug/net8.0/csday3.dll
+/Users/smile/C#/day_3/real calc/bin/Debug/net8.0/csday3.pdb
+/Users/smile/C#/day_3/real calc/obj/Debug/net8.0/csday3.genruntimeconfig.cache
+/Users/smile/C#/day_3/real calc/obj/Debug/net8.0/ref/csday3.dll

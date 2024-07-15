@@ -1,0 +1,14 @@
+/Users/smile/C#/day_5/2DArray/bin/Debug/net8.0/2DArray
+/Users/smile/C#/day_5/2DArray/bin/Debug/net8.0/2DArray.deps.json
+/Users/smile/C#/day_5/2DArray/bin/Debug/net8.0/2DArray.runtimeconfig.json
+/Users/smile/C#/day_5/2DArray/bin/Debug/net8.0/2DArray.dll
+/Users/smile/C#/day_5/2DArray/bin/Debug/net8.0/2DArray.pdb
+/Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/2DArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/2DArray.AssemblyInfoInputs.cache
+/Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/2DArray.AssemblyInfo.cs
+/Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/2DArray.csproj.CoreCompileInputs.cache
+/Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/2DArray.dll
+/Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/refint/2DArray.dll
+/Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/2DArray.pdb
+/Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/2DArray.genruntimeconfig.cache
+/Users/smile/C#/day_5/2DArray/obj/Debug/net8.0/ref/2DArray.dll

@@ -1,0 +1,14 @@
+/Users/smile/C#/day_2/myCsCalc/bin/Debug/net8.0/myCsCalc
+/Users/smile/C#/day_2/myCsCalc/bin/Debug/net8.0/myCsCalc.deps.json
+/Users/smile/C#/day_2/myCsCalc/bin/Debug/net8.0/myCsCalc.runtimeconfig.json
+/Users/smile/C#/day_2/myCsCalc/bin/Debug/net8.0/myCsCalc.dll
+/Users/smile/C#/day_2/myCsCalc/bin/Debug/net8.0/myCsCalc.pdb
+/Users/smile/C#/day_2/myCsCalc/obj/Debug/net8.0/myCsCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/day_2/myCsCalc/obj/Debug/net8.0/myCsCalc.AssemblyInfoInputs.cache
+/Users/smile/C#/day_2/myCsCalc/obj/Debug/net8.0/myCsCalc.AssemblyInfo.cs
+/Users/smile/C#/day_2/myCsCalc/obj/Debug/net8.0/myCsCalc.csproj.CoreCompileInputs.cache
+/Users/smile/C#/day_2/myCsCalc/obj/Debug/net8.0/myCsCalc.dll
+/Users/smile/C#/day_2/myCsCalc/obj/Debug/net8.0/refint/myCsCalc.dll
+/Users/smile/C#/day_2/myCsCalc/obj/Debug/net8.0/myCsCalc.pdb
+/Users/smile/C#/day_2/myCsCalc/obj/Debug/net8.0/myCsCalc.genruntimeconfig.cache
+/Users/smile/C#/day_2/myCsCalc/obj/Debug/net8.0/ref/myCsCalc.dll

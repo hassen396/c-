@@ -1,0 +1,14 @@
+/Users/smile/C#/day_3/syntax_practice/bin/Debug/net8.0/syntax_practice
+/Users/smile/C#/day_3/syntax_practice/bin/Debug/net8.0/syntax_practice.deps.json
+/Users/smile/C#/day_3/syntax_practice/bin/Debug/net8.0/syntax_practice.runtimeconfig.json
+/Users/smile/C#/day_3/syntax_practice/bin/Debug/net8.0/syntax_practice.dll
+/Users/smile/C#/day_3/syntax_practice/bin/Debug/net8.0/syntax_practice.pdb
+/Users/smile/C#/day_3/syntax_practice/obj/Debug/net8.0/syntax_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/day_3/syntax_practice/obj/Debug/net8.0/syntax_practice.AssemblyInfoInputs.cache
+/Users/smile/C#/day_3/syntax_practice/obj/Debug/net8.0/syntax_practice.AssemblyInfo.cs
+/Users/smile/C#/day_3/syntax_practice/obj/Debug/net8.0/syntax_practice.csproj.CoreCompileInputs.cache
+/Users/smile/C#/day_3/syntax_practice/obj/Debug/net8.0/syntax_practice.dll
+/Users/smile/C#/day_3/syntax_practice/obj/Debug/net8.0/refint/syntax_practice.dll
+/Users/smile/C#/day_3/syntax_practice/obj/Debug/net8.0/syntax_practice.pdb
+/Users/smile/C#/day_3/syntax_practice/obj/Debug/net8.0/syntax_practice.genruntimeconfig.cache
+/Users/smile/C#/day_3/syntax_practice/obj/Debug/net8.0/ref/syntax_practice.dll

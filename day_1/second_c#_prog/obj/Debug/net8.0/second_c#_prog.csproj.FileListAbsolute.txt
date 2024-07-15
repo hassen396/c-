@@ -1,0 +1,14 @@
+/Users/smile/C#/second_c#_prog/bin/Debug/net8.0/second_c#_prog
+/Users/smile/C#/second_c#_prog/bin/Debug/net8.0/second_c#_prog.deps.json
+/Users/smile/C#/second_c#_prog/bin/Debug/net8.0/second_c#_prog.runtimeconfig.json
+/Users/smile/C#/second_c#_prog/bin/Debug/net8.0/second_c#_prog.dll
+/Users/smile/C#/second_c#_prog/bin/Debug/net8.0/second_c#_prog.pdb
+/Users/smile/C#/second_c#_prog/obj/Debug/net8.0/second_c#_prog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/second_c#_prog/obj/Debug/net8.0/second_c#_prog.AssemblyInfoInputs.cache
+/Users/smile/C#/second_c#_prog/obj/Debug/net8.0/second_c#_prog.AssemblyInfo.cs
+/Users/smile/C#/second_c#_prog/obj/Debug/net8.0/second_c#_prog.csproj.CoreCompileInputs.cache
+/Users/smile/C#/second_c#_prog/obj/Debug/net8.0/second_c#_prog.dll
+/Users/smile/C#/second_c#_prog/obj/Debug/net8.0/refint/second_c#_prog.dll
+/Users/smile/C#/second_c#_prog/obj/Debug/net8.0/second_c#_prog.pdb
+/Users/smile/C#/second_c#_prog/obj/Debug/net8.0/second_c#_prog.genruntimeconfig.cache
+/Users/smile/C#/second_c#_prog/obj/Debug/net8.0/ref/second_c#_prog.dll
