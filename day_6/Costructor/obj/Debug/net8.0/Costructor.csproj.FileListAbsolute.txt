@@ -1,0 +1,15 @@
+/Users/smile/C#/day_6/Costructor/bin/Debug/net8.0/Costructor
+/Users/smile/C#/day_6/Costructor/bin/Debug/net8.0/Costructor.deps.json
+/Users/smile/C#/day_6/Costructor/bin/Debug/net8.0/Costructor.runtimeconfig.json
+/Users/smile/C#/day_6/Costructor/bin/Debug/net8.0/Costructor.dll
+/Users/smile/C#/day_6/Costructor/bin/Debug/net8.0/Costructor.pdb
+/Users/smile/C#/day_6/Costructor/obj/Debug/net8.0/Costructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/day_6/Costructor/obj/Debug/net8.0/Costructor.AssemblyInfoInputs.cache
+/Users/smile/C#/day_6/Costructor/obj/Debug/net8.0/Costructor.AssemblyInfo.cs
+/Users/smile/C#/day_6/Costructor/obj/Debug/net8.0/Costructor.csproj.CoreCompileInputs.cache
+/Users/smile/C#/day_6/Costructor/obj/Debug/net8.0/Costructor.sourcelink.json
+/Users/smile/C#/day_6/Costructor/obj/Debug/net8.0/Costructor.dll
+/Users/smile/C#/day_6/Costructor/obj/Debug/net8.0/refint/Costructor.dll
+/Users/smile/C#/day_6/Costructor/obj/Debug/net8.0/Costructor.pdb
+/Users/smile/C#/day_6/Costructor/obj/Debug/net8.0/Costructor.genruntimeconfig.cache
+/Users/smile/C#/day_6/Costructor/obj/Debug/net8.0/ref/Costructor.dll

@@ -1,0 +1,15 @@
+/Users/smile/C#/day_5/NamedParam/bin/Debug/net8.0/NamedParam
+/Users/smile/C#/day_5/NamedParam/bin/Debug/net8.0/NamedParam.deps.json
+/Users/smile/C#/day_5/NamedParam/bin/Debug/net8.0/NamedParam.runtimeconfig.json
+/Users/smile/C#/day_5/NamedParam/bin/Debug/net8.0/NamedParam.dll
+/Users/smile/C#/day_5/NamedParam/bin/Debug/net8.0/NamedParam.pdb
+/Users/smile/C#/day_5/NamedParam/obj/Debug/net8.0/NamedParam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/day_5/NamedParam/obj/Debug/net8.0/NamedParam.AssemblyInfoInputs.cache
+/Users/smile/C#/day_5/NamedParam/obj/Debug/net8.0/NamedParam.AssemblyInfo.cs
+/Users/smile/C#/day_5/NamedParam/obj/Debug/net8.0/NamedParam.csproj.CoreCompileInputs.cache
+/Users/smile/C#/day_5/NamedParam/obj/Debug/net8.0/NamedParam.sourcelink.json
+/Users/smile/C#/day_5/NamedParam/obj/Debug/net8.0/NamedParam.dll
+/Users/smile/C#/day_5/NamedParam/obj/Debug/net8.0/refint/NamedParam.dll
+/Users/smile/C#/day_5/NamedParam/obj/Debug/net8.0/NamedParam.pdb
+/Users/smile/C#/day_5/NamedParam/obj/Debug/net8.0/NamedParam.genruntimeconfig.cache
+/Users/smile/C#/day_5/NamedParam/obj/Debug/net8.0/ref/NamedParam.dll

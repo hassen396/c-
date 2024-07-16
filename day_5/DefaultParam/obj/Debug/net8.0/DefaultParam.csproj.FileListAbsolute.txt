@@ -1,0 +1,15 @@
+/Users/smile/C#/day_5/DefaultParam/bin/Debug/net8.0/DefaultParam
+/Users/smile/C#/day_5/DefaultParam/bin/Debug/net8.0/DefaultParam.deps.json
+/Users/smile/C#/day_5/DefaultParam/bin/Debug/net8.0/DefaultParam.runtimeconfig.json
+/Users/smile/C#/day_5/DefaultParam/bin/Debug/net8.0/DefaultParam.dll
+/Users/smile/C#/day_5/DefaultParam/bin/Debug/net8.0/DefaultParam.pdb
+/Users/smile/C#/day_5/DefaultParam/obj/Debug/net8.0/DefaultParam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/day_5/DefaultParam/obj/Debug/net8.0/DefaultParam.AssemblyInfoInputs.cache
+/Users/smile/C#/day_5/DefaultParam/obj/Debug/net8.0/DefaultParam.AssemblyInfo.cs
+/Users/smile/C#/day_5/DefaultParam/obj/Debug/net8.0/DefaultParam.csproj.CoreCompileInputs.cache
+/Users/smile/C#/day_5/DefaultParam/obj/Debug/net8.0/DefaultParam.sourcelink.json
+/Users/smile/C#/day_5/DefaultParam/obj/Debug/net8.0/DefaultParam.dll
+/Users/smile/C#/day_5/DefaultParam/obj/Debug/net8.0/refint/DefaultParam.dll
+/Users/smile/C#/day_5/DefaultParam/obj/Debug/net8.0/DefaultParam.pdb
+/Users/smile/C#/day_5/DefaultParam/obj/Debug/net8.0/DefaultParam.genruntimeconfig.cache
+/Users/smile/C#/day_5/DefaultParam/obj/Debug/net8.0/ref/DefaultParam.dll
