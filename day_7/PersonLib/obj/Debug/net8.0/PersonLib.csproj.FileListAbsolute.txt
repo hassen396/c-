@@ -1,0 +1,12 @@
+/Users/smile/C#/day_7/PersonLib/bin/Debug/net8.0/PersonLib.deps.json
+/Users/smile/C#/day_7/PersonLib/bin/Debug/net8.0/PersonLib.dll
+/Users/smile/C#/day_7/PersonLib/bin/Debug/net8.0/PersonLib.pdb
+/Users/smile/C#/day_7/PersonLib/obj/Debug/net8.0/PersonLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/day_7/PersonLib/obj/Debug/net8.0/PersonLib.AssemblyInfoInputs.cache
+/Users/smile/C#/day_7/PersonLib/obj/Debug/net8.0/PersonLib.AssemblyInfo.cs
+/Users/smile/C#/day_7/PersonLib/obj/Debug/net8.0/PersonLib.csproj.CoreCompileInputs.cache
+/Users/smile/C#/day_7/PersonLib/obj/Debug/net8.0/PersonLib.sourcelink.json
+/Users/smile/C#/day_7/PersonLib/obj/Debug/net8.0/PersonLib.dll
+/Users/smile/C#/day_7/PersonLib/obj/Debug/net8.0/refint/PersonLib.dll
+/Users/smile/C#/day_7/PersonLib/obj/Debug/net8.0/PersonLib.pdb
+/Users/smile/C#/day_7/PersonLib/obj/Debug/net8.0/ref/PersonLib.dll

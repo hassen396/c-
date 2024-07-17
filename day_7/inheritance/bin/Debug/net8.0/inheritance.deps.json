@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "inheritance/1.0.0": {
+        "dependencies": {
+          "PersonLib": "1.0.0"
+        },
+        "runtime": {
+          "inheritance.dll": {}
+        }
+      },
+      "PersonLib/1.0.0": {
+        "runtime": {
+          "PersonLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
