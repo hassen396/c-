@@ -1,0 +1,15 @@
+/Users/smile/C#/day_8/FilesInCHacs/bin/Debug/net8.0/FilesInCHacs
+/Users/smile/C#/day_8/FilesInCHacs/bin/Debug/net8.0/FilesInCHacs.deps.json
+/Users/smile/C#/day_8/FilesInCHacs/bin/Debug/net8.0/FilesInCHacs.runtimeconfig.json
+/Users/smile/C#/day_8/FilesInCHacs/bin/Debug/net8.0/FilesInCHacs.dll
+/Users/smile/C#/day_8/FilesInCHacs/bin/Debug/net8.0/FilesInCHacs.pdb
+/Users/smile/C#/day_8/FilesInCHacs/obj/Debug/net8.0/FilesInCHacs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/C#/day_8/FilesInCHacs/obj/Debug/net8.0/FilesInCHacs.AssemblyInfoInputs.cache
+/Users/smile/C#/day_8/FilesInCHacs/obj/Debug/net8.0/FilesInCHacs.AssemblyInfo.cs
+/Users/smile/C#/day_8/FilesInCHacs/obj/Debug/net8.0/FilesInCHacs.csproj.CoreCompileInputs.cache
+/Users/smile/C#/day_8/FilesInCHacs/obj/Debug/net8.0/FilesInCHacs.sourcelink.json
+/Users/smile/C#/day_8/FilesInCHacs/obj/Debug/net8.0/FilesInCHacs.dll
+/Users/smile/C#/day_8/FilesInCHacs/obj/Debug/net8.0/refint/FilesInCHacs.dll
+/Users/smile/C#/day_8/FilesInCHacs/obj/Debug/net8.0/FilesInCHacs.pdb
+/Users/smile/C#/day_8/FilesInCHacs/obj/Debug/net8.0/FilesInCHacs.genruntimeconfig.cache
+/Users/smile/C#/day_8/FilesInCHacs/obj/Debug/net8.0/ref/FilesInCHacs.dll
