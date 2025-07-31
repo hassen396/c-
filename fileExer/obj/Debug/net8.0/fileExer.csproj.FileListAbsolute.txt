@@ -1,0 +1,15 @@
+/Users/smile/InfoTern/C#/fileExer/bin/Debug/net8.0/fileExer
+/Users/smile/InfoTern/C#/fileExer/bin/Debug/net8.0/fileExer.deps.json
+/Users/smile/InfoTern/C#/fileExer/bin/Debug/net8.0/fileExer.runtimeconfig.json
+/Users/smile/InfoTern/C#/fileExer/bin/Debug/net8.0/fileExer.dll
+/Users/smile/InfoTern/C#/fileExer/bin/Debug/net8.0/fileExer.pdb
+/Users/smile/InfoTern/C#/fileExer/obj/Debug/net8.0/fileExer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smile/InfoTern/C#/fileExer/obj/Debug/net8.0/fileExer.AssemblyInfoInputs.cache
+/Users/smile/InfoTern/C#/fileExer/obj/Debug/net8.0/fileExer.AssemblyInfo.cs
+/Users/smile/InfoTern/C#/fileExer/obj/Debug/net8.0/fileExer.csproj.CoreCompileInputs.cache
+/Users/smile/InfoTern/C#/fileExer/obj/Debug/net8.0/fileExer.sourcelink.json
+/Users/smile/InfoTern/C#/fileExer/obj/Debug/net8.0/fileExer.dll
+/Users/smile/InfoTern/C#/fileExer/obj/Debug/net8.0/refint/fileExer.dll
+/Users/smile/InfoTern/C#/fileExer/obj/Debug/net8.0/fileExer.pdb
+/Users/smile/InfoTern/C#/fileExer/obj/Debug/net8.0/fileExer.genruntimeconfig.cache
+/Users/smile/InfoTern/C#/fileExer/obj/Debug/net8.0/ref/fileExer.dll
